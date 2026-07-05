@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Car Bass Ultimate</string>
+    <string name="title_activity_main">Car Bass Ultimate</string>
+    <string name="package_name">com.carbass.ultimate</string>
+    <string name="custom_url_scheme">com.carbass.ultimate</string>
+</resources>
